@@ -1,4 +1,4 @@
-package praktikum;
+package ru.yandex.praktikum9;
 
 /**
  * Модель булочки для бургера.
