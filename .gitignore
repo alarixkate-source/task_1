@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# Разрешаем папку с отчётом JaCoCo
+!target/site/jacoco/
